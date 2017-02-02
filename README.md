@@ -1,3 +1,3 @@
 # hello-world
 the first repository
-I'm drew from Alabama. 
+I'm drew from Alabama
